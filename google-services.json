@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "206282287753",
+    "firebase_url": "https://fmcgbasket.firebaseio.com",
+    "project_id": "fmcgbasket",
+    "storage_bucket": "fmcgbasket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206282287753:android:eef25dfa86bcd442327458",
+        "android_client_info": {
+          "package_name": "com.fmcgbasket.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206282287753-ud2j52nfj4jq2k3rl4fo81f2d4erkbnl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQxGURtjjMeZDj8ebVi2Qm2Q-5ajqVFJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206282287753-ud2j52nfj4jq2k3rl4fo81f2d4erkbnl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
